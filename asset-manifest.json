@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/verify-account/static/css/main.b7a0d161.css",
+    "main.js": "/verify-account/static/js/main.556aefe5.js",
+    "index.html": "/verify-account/index.html",
+    "main.b7a0d161.css.map": "/verify-account/static/css/main.b7a0d161.css.map",
+    "main.556aefe5.js.map": "/verify-account/static/js/main.556aefe5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7a0d161.css",
+    "static/js/main.556aefe5.js"
+  ]
+}
